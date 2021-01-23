@@ -1,0 +1,27 @@
+{
+  "name": "mikh_jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shayan3k/jquery_playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shayan3k/jquery_playground/issues"
+  },
+  "homepage": "https://github.com/shayan3k/jquery_playground#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1"
+  }
+}
